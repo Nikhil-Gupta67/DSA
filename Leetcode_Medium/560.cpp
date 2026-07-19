@@ -5,6 +5,7 @@ class Solution
 public:
     int subarraySum(vector<int> &nums, int k)
     {
+
         unordered_map<int, int> mp;
 
         mp[0] = 1;
@@ -34,6 +35,5 @@ int main()
     int k = 2;
     int result = sol.subarraySum(nums, k);
     cout << "Number of subarrays: " << result << endl;
-
     return 0;
 }
