@@ -37,3 +37,11 @@ public:
         return true;
     }
 };
+int main()
+{
+    Solution s;
+    string input    = "A man, a plan, a canal: Panama";
+    bool result     = s.isPalindrome(input);
+    cout << (result ? "true" : "false") << endl;
+    return 0;
+}
