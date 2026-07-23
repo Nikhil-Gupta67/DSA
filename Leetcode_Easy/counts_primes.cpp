@@ -21,4 +21,12 @@ public:
         return count(isPrime.begin(), isPrime.end(), true);
     }
 };
+int main()
+{
+    Solution s;
+    int n = 10;
+    int result = s.countPrimes(n);
+    cout << "Number of prime numbers less than " << n << ": " << result << endl;
+    return 0;
+}
 
