@@ -18,3 +18,18 @@ public:
         return k;
     }
 };
+int main()
+{
+    Solution s;
+    vector<int> nums = {3, 2, 2, 3};
+    int val = 3;
+    int k = s.removeElement(nums, val);
+    cout << "The new length of the array after removing " << val << " is: " << k << endl;
+    cout << "The modified array is: ";
+    for (int i = 0; i < k; i++)
+    {
+        cout << nums[i] << " ";
+    }
+    cout << endl;
+    return 0;
+}
