@@ -20,3 +20,16 @@ public:
         return digits;
     }
 };
+int main()
+{
+    Solution s;
+    vector<int> digits = {9, 9, 9};
+    vector<int> result = s.plusOne(digits);
+    cout << "The result after adding one is: ";
+    for (int i = 0; i < result.size(); i++)
+    {
+        cout << result[i] << " ";
+    }
+    cout << endl;
+    return 0;
+}
