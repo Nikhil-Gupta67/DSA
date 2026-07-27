@@ -17,3 +17,11 @@ public:
         return false;
     }
 };
+int main()
+{
+    Solution s;
+    vector<int> nums = {1, 2, 3, 1};
+    bool result = s.containsDuplicate(nums);
+    cout << "Contains duplicate: " << (result ? "true" : "false") << endl;
+    return 0;
+}
