@@ -1,3 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     bool isPalindrome(int x) {
@@ -17,3 +19,10 @@ public:
         return rev == x;
     }
 };
+int main()
+{
+    Solution s;
+    int x = 121;
+    cout << s.isPalindrome(x) << endl; // Output: 1 (true)
+    return 0;
+}
