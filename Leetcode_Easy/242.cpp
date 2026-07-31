@@ -24,3 +24,11 @@ public:
         return true;
     }
 };
+int main()
+{
+    Solution s;
+    string str1 = "anagram";
+    string str2 = "nagaram";
+    cout << s.isAnagram(str1, str2) << endl; // Output: 1 (true)
+    return 0;
+}                                           
