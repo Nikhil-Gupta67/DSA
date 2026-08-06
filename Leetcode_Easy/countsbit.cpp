@@ -10,3 +10,13 @@ class solution {
         return ans;
     }
 };
+int main(){
+    solution s;
+    int n = 5;
+    vector<int> result = s.countbits(n);
+    for (int i = 0; i <= n; i++){
+        cout << result[i] << " ";
+    }
+    cout << endl; // Output: 0 1 1 2 1 2
+    return 0;
+}
