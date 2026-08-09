@@ -1,4 +1,4 @@
-# DSSA C++ LeetCode Practices
+# DSSA C++ LeetCode Practices-
 
 This repository contains C++ solutions for selected LeetCode problems, organized by difficulty.
 
