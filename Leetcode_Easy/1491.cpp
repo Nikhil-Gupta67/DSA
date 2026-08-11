@@ -26,3 +26,11 @@ public:
         return (double)sum / (salary.size() - 2);
     }
 };
+int main()
+{
+    Solution solution;
+    vector<int> salary = {4000, 3000, 1000, 2000};
+    double result = solution.average(salary);
+    cout << fixed << setprecision(5) << result << endl; // Output: 2500.00000
+    return 0;
+}
