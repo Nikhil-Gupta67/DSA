@@ -1,4 +1,4 @@
-# DSSA C++ LeetCode Practices-
+# DSSA C++ LeetCode Practice
 
 This repository contains C++ solutions for selected LeetCode problems, organized by difficulty.
 
@@ -9,33 +9,36 @@ This repository contains C++ solutions for selected LeetCode problems, organized
 
 ## Purpose
 
-The goal of this project is to practice:
+This repository is intended for:
 
-- C++ syntax and problem-solving
-- common algorithmic patterns
-- LeetCode-style interview preparation
-- clean and readable solution implementations
+- practicing C++ syntax and language features
+- improving algorithm and data structure skills
+- solving LeetCode-style interview problems
+- keeping solutions clean, readable, and self-contained
 
-## Example Files
+## Current Contents
 
-- `Leetcode_Easy/121.cpp`
-- `Leetcode_Easy/88.cpp`
-- `Leetcode_Easy/242.cpp`
-- `Leetcode_Medium/560.cpp`
+- `Leetcode_Easy/` contains solutions to easy difficulty problems such as array manipulation, two pointers, string processing, and math.
+- `Leetcode_Medium/` contains medium difficulty problems for deeper algorithm practice.
 
-## Notes
+## Usage
 
-Each file is an individual solution for a specific problem and is intended to be compiled and run independently.
-
-## Getting Started
-
-To compile a solution with `g++`:
+To compile and run a solution using `g++`:
 
 ```bash
+cd d:\(cpp)\DSSA
 g++ -std=c++17 Leetcode_Easy/88.cpp -o solution
 ./solution
 ```
 
+Replace `Leetcode_Easy/88.cpp` with any other solution file.
+
+## Notes
+
+- Each file typically contains a standalone solution.
+- Solutions are organized by their LeetCode difficulty level.
+- Files are intended to be compiled and executed independently.
+
 ## Contributing
 
-This repository is mainly for personal practice. You can add more solutions by placing them into the appropriate difficulty folder.
+Add more problem solutions by placing new `.cpp` files into the appropriate difficulty folder. Name files clearly to reflect the problem solved.
