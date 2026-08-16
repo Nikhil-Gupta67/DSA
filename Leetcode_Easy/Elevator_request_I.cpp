@@ -17,3 +17,10 @@ public:
         return totalTime;
     }
 };
+int main(){
+    Solution sol;
+    vector<int> requests = {2, 1, 3};
+    int result = sol.elevatorRequests(4, requests);
+    cout << result << endl;
+    return 0;
+}
