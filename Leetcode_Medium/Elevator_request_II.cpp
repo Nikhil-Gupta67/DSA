@@ -33,3 +33,11 @@ public:
         return ans;
     }
 };
+int main()
+{
+    Solution solution;
+    string s = "abc";
+    int result = solution.minimumOperations(s);
+    cout << "Minimum operations: " << result << endl;
+    return 0;
+}
