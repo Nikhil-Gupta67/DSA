@@ -7,7 +7,7 @@ This repository contains C++ solutions for selected LeetCode problems, organized
 - `Leetcode_Easy/` – easy-level problem solutions
 - `Leetcode_Medium/` – medium-level problem solutions
 
-## Purpose
+## Purpose--
 
 This repository is intended for:
 
