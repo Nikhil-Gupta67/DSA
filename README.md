@@ -39,6 +39,6 @@ Replace `Leetcode_Easy/88.cpp` with any other solution file.
 - Solutions are organized by their LeetCode difficulty level.
 - Files are intended to be compiled and executed independently.
 
-## Contributing
+## Contributing--
 
 Add more problem solutions by placing new `.cpp` files into the appropriate difficulty folder. Name files clearly to reflect the problem solved.
