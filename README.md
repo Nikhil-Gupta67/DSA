@@ -33,7 +33,7 @@ g++ -std=c++17 Leetcode_Easy/88.cpp -o solution
 
 Replace `Leetcode_Easy/88.cpp` with any other solution file.
 
-## Notes
+## Notes--
 
 - Each file typically contains a standalone solution.
 - Solutions are organized by their LeetCode difficulty level.
