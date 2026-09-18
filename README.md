@@ -2,7 +2,7 @@
 
 This repository contains C++ solutions for selected LeetCode problems, organized by difficulty.
 
-## Project Structure--
+## Project Structure-
 
 - `Leetcode_Easy/` – easy-level problem solutions
 - `Leetcode_Medium/` – medium-level problem solutions
