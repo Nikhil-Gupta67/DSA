@@ -16,7 +16,7 @@ This repository is intended for:
 - solving LeetCode-style interview problems
 - keeping solutions clean, readable, and self-contained
 
-## Current Contents-
+## Current Contents
 
 - `Leetcode_Easy/` contains solutions to easy difficulty problems such as array manipulation, two pointers, string processing, and math.
 - `Leetcode_Medium/` contains medium difficulty problems for deeper algorithm practice.
