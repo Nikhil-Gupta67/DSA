@@ -28,7 +28,7 @@ int main()
     Solution sol;
 
     vector<int> nums1 = {0, 3, 2, 1};
-    cout << sol.maximumK(nums1) << "\n"; // 1
+    cout << sol.maximumK(nums1) << "\n"; 
 
     vector<int> nums2 = {0, 1, 3, 2};
     cout << sol.maximumK(nums2) << "\n"; 
