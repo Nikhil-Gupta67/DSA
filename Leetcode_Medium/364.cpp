@@ -34,7 +34,7 @@ int main()
     cout << sol.maximumK(nums2) << "\n"; // 2
 
     vector<int> nums3 = {3, 2, 1, 0};
-    cout << sol.maximumK(nums3) << "\n"; // 0
+    cout << sol.maximumK(nums3) << "\n"; 
 
     return 0;
 }
