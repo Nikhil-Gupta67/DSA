@@ -41,4 +41,4 @@ Replace `Leetcode_Easy/88.cpp` with any other solution file.
 
 ## Contributing--
 
-Add more problem solutions by placing new `.cpp` files into the appropriate difficulty folder. Name files clearly to reflect the problem solves
+Add more problem solutions by placing new `.cpp` files into the appropriate difficulty folder. Name files clearly to reflect the problem solved.
