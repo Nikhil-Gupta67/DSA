@@ -42,3 +42,7 @@ Replace `Leetcode_Easy/88.cpp` with any other solution file.
 ## Contributing
 
 Add more problem solutions by placing new `.cpp` files into the appropriate difficulty folder. Name files clearly to reflect the problem solves.
+
+
+## 
+oklch(69% .22 220));--bs-cyan-500:oklch(69% .22 220);--bs-cyan-600:color-mix(in oklch, var(--bs-black) 16%, oklch(69% .22 220));--bs-cyan-700:color-mix(in oklch, var(--bs-black) 32%, oklch(69% .22 220));--bs-cyan-800:color-mix(in oklch, var(--bs-black) 48%, oklch(69% .22 220));--bs-cyan-900:color-mix(in oklch, var(--bs-black) 64%, oklch(69% .22 220));--bs-cyan-950:color-mix(in oklch, var(--bs-black) 70%.
